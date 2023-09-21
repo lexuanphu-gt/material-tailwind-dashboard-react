@@ -113,7 +113,7 @@ export function DashboardNavbar() {
                 <BellIcon className="h-5 w-5 text-blue-gray-500" />
               </IconButton>
             </MenuHandler>
-            <MenuList className="w-max border-0">
+            {/* <MenuList className="w-max border-0">
               <MenuItem className="flex items-center gap-3">
                 <Avatar
                   src="https://demos.creative-tim.com/material-dashboard/assets/img/team-2.jpg"
@@ -183,7 +183,7 @@ export function DashboardNavbar() {
                   </Typography>
                 </div>
               </MenuItem>
-            </MenuList>
+            </MenuList> */}
           </Menu>
         </div>
       </div>
